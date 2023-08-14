@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Conversion calculators" Database="" Version="10000">
+  <Project Name="Final" Path="Denary_to_binary/Denary_to_binary.project" Active="Yes"/>
+  <VirtualDirectory Name="Binary to Denary">
+    <Project Name="Bin-Den" Path="Bin-Den/Bin-Den.project" Active="No"/>
+    <Project Name="Menu-edit" Path="Menu-edit/Menu-edit.project" Active="No"/>
+  </VirtualDirectory>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Final" ConfigName="Debug"/>
+      <Project Name="Menu-edit" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Final" ConfigName="Release"/>
+      <Project Name="Menu-edit" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
